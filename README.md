@@ -65,8 +65,9 @@ To improve real-world applicability and avoid data leakage, **internal and exter
 </details>
 
 ---
+##  Conclusion
+<details> <summary>Click to expand</summary>
 
-## 🏗️ System Architecture
-<details>
-<summary>Click to expand</summary>
+This project demonstrates how machine learning models can be effectively integrated into real-world applications using modern web technologies. By combining data analysis, supervised learning, and full-stack development, the system provides meaningful insights into campus placement readiness while maintaining scalability and modularity.
 
+</details>
